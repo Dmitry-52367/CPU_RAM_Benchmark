@@ -1,0 +1,10 @@
+C:\_Git\Load_CPU_RAM\Load_CPU_RAM\bin\x64\Release\Load_CPU_RAM.exe.config
+C:\_Git\Load_CPU_RAM\Load_CPU_RAM\bin\x64\Release\Load_CPU_RAM.exe
+C:\_Git\Load_CPU_RAM\Load_CPU_RAM\bin\x64\Release\Load_CPU_RAM.pdb
+C:\_Git\Load_CPU_RAM\Load_CPU_RAM\obj\x64\Release\Load_CPU_RAM.csprojAssemblyReference.cache
+C:\_Git\Load_CPU_RAM\Load_CPU_RAM\obj\x64\Release\Load_CPU_RAM.MainForm.resources
+C:\_Git\Load_CPU_RAM\Load_CPU_RAM\obj\x64\Release\Load_CPU_RAM.Properties.Resources.resources
+C:\_Git\Load_CPU_RAM\Load_CPU_RAM\obj\x64\Release\Load_CPU_RAM.csproj.GenerateResource.cache
+C:\_Git\Load_CPU_RAM\Load_CPU_RAM\obj\x64\Release\Load_CPU_RAM.csproj.CoreCompileInputs.cache
+C:\_Git\Load_CPU_RAM\Load_CPU_RAM\obj\x64\Release\Load_CPU_RAM.exe
+C:\_Git\Load_CPU_RAM\Load_CPU_RAM\obj\x64\Release\Load_CPU_RAM.pdb
