@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE dotfuscator SYSTEM "http://www.preemptive.com/dotfuscator/dtd/dotfuscator_v2.4.dtd">
+<dotfuscator version="2.3">
+  <global>
+    <option>inheritoas</option>
+  </global>
+  <input>
+    <loadpaths />
+    <asmlist>
+      <inputassembly refid="b89e7248-cfa6-41ac-b6e8-ebc1684f0845">
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <option>transformxaml</option>
+        <file dir="C:\_Git\CPU_RAM_Benchmark\Load_CPU_RAM\bin\x64\Release" name="Load_CPU_RAM.exe" />
+      </inputassembly>
+    </asmlist>
+  </input>
+  <output>
+    <file dir="${configdir}\Dotfuscated" />
+  </output>
+  <renaming>
+    <option>xmlserialization</option>
+    <option>explicitoverrides</option>
+    <mapping>
+      <mapoutput overwrite="false">
+        <file dir="${configdir}\Dotfuscated" name="Map.xml" />
+      </mapoutput>
+    </mapping>
+    <referencerulelist />
+  </renaming>
+  <sos mergeruntime="true">
+    <option>version:v4</option>
+    <option>sendanalytics</option>
+    <option>dontsendtamper</option>
+  </sos>
+  <smartobfuscation>
+    <smartobfuscationreport verbosity="all" overwrite="false" />
+  </smartobfuscation>
+</dotfuscator>
